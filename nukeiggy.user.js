@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name 		Literoitica Nuclear Ignore
+// @name 		Literotica Nuclear Ignore
 // @namespace	http://github.com/robdownsouth/
 // @description	Ignores threads started by ignored users, hides ignored posts entirely, and hides replies to ignored posts.
 //
